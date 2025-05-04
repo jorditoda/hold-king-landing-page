@@ -51,7 +51,7 @@ const templateConfig: TemplateConfig = {
     id: "app-banner",
     title: "Download Hold King Today!",
     subtitle:
-      "Use it for fun with your friends",
+      "Be the one holding forever",
     screenshots: [
       "/screenshots/1.png",
       "/screenshots/2.png",
@@ -71,17 +71,17 @@ const templateConfig: TemplateConfig = {
         {
           name: "Marta G.",
           comment:
-            "Esta app es exactamente lo que necesitaba. El diseño es elegante y las funcionalidades son perfectas para los que nos gusta estar al tanto de todos los detalles mientras conducimos. ¡Un 10!",
+            "I've been playing Hold King regularly for months now, and it's completely addictive! Every session pushes my limits, and I love tracking my progress as I climb the global rankings. If you're into competitive challenges, this game is a must-try.",
         },
         {
           name: "Carlos H.",
           comment:
-            "Una app muy innovadora. Es perfecta para viajes largos y para los que nos gusta tener todo bajo control en el coche. Solo echo en falta la integración con más dispositivos externos.",
+            "Hold King is my go-to app when I need a quick burst of fun. The simple, intuitive interface makes it easy to jump right in, and competing against players worldwide keeps me motivated to improve. It’s a great way to test my endurance every day!",
         },
         {
           name: "Juan P.",
           comment:
-            "Como piloto de rally, necesito una herramienta confiable y precisa para monitorizar mi rendimiento en tiempo real. Esta app de HUD ha superado todas mis expectativas. La visualización de la velocidad y las fuerzas G es esencial durante las carreras, y me permite ajustar mi conducción al instante. La interfaz es intuitiva y no distrae durante la conducción, lo cual es crucial en los tramos más complicados. ¡Altamente recomendada para cualquier apasionado del rally!",
+            "As an avid fan of competitive mobile games, Hold King really stands out. The challenges are fun and push you to develop real endurance. I especially appreciate the training mode that helps me refine my skills. I find myself coming back daily, always eager to beat my personal best!",
         },
 //         {
 //           name: "Jose R.",
@@ -117,13 +117,13 @@ const templateConfig: TemplateConfig = {
           image: "/stock/03.webp",
         },
         {
-          title: "Click anywhere in the screen",
-          subtitle: "Click anywhere in the screen, try to find the most difficult spot",
+          title: "Click the blue button",
+          subtitle: "Click and hold the blue button in the middle of the screen to start counting",
           image: "/screenshots/1.png",
         },
         {
-          title: "Someone Pointing your finger",
-          subtitle: "You will find an image of someone pointing where you clicked",
+          title: "Move the finger or untap the button",
+          subtitle: "When you move your finger the watch will stop counting and the time will be added on the leaderboard",
           image: "/screenshots/4.png",
         },
 //         {
@@ -147,15 +147,15 @@ const templateConfig: TemplateConfig = {
         "Elevate your lifestyle with our innovative mobile app, designed for seamless living",
       cards: [
         {
-          title: "Speed 🎨",
+          title: "Hold 🎨",
           subtitle:
-            "Current speed of the vehicle projected onto the windshield, allowing drivers to monitor their speed without taking their eyes off the road.",
+            "Be the one holding still your finger most of the time.",
           icon: "/3D/rocket-front-color.webp",
         },
         {
-          title: "G Forces 🎲",
+          title: "Interactive Live Leaderboard",
           subtitle:
-            "real-time data on the G-forces experienced during driving, helping drivers better understand their vehicle's dynamics and performance.",
+            "Integrate a dynamic leaderboard that updates in real time to showcase top players, daily high scores, or weekly challenges. This feature not only boosts engagement by stirring up a healthy competitive spirit among users but also motivates players to return frequently to see their ranking progress. You could even allow filtering by region or game mode to personalize the experience.",
           icon: "/3D/trophy-front-color.webp",
         },
 //         {
@@ -177,46 +177,46 @@ const templateConfig: TemplateConfig = {
       title: "Frequently Asked Questions",
       qa: [
         {
-          question: "What is the HUD app and how does it work?",
+          question: "1. How do I get started with Hold King?",
           answer:
-            "Our HUD (Heads-Up Display) app projects crucial information such as speed and G-forces onto your car’s windshield, allowing for safer, distraction-free driving.",
-            },
+          "To start playing Hold King, simply download the app from your preferred app store and install it on your device. Once launched, you'll be guided through a short tutorial that explains the basic controls and gameplay. After the tutorial, you can jump into the training mode to practice before competing in the global leaderboard.",
+          },
         {
-          question: "Is the app difficult to install and set up?",
+          question: "2. How is my score calculated in Hold King?",
           answer:
-            "No, our app is very easy to install and set up. You just need to download it from the app store and accept location permissions.",
+            "Your score in Hold King is determined by how long you can hold the designated button without letting go. The duration of your hold translates directly into your score. The longer you hold, the higher your score becomes, which then updates on the global leaderboard, allowing you to compare your endurance against other players worldwide.",
         },
         {
-          question: "What devices are compatible with the app?",
+          question: "3. Is Hold King free to play, and are there any in-app purchases?",
           answer:
-            "The app is compatible with most smartphones running iOS and Android operating systems. Make sure you have the latest version of the OS for optimal performance.",
+            "Yes, Hold King is completely free to download and play. While the core gameplay is available at no cost, we use ads to keep the app running and also there are optional in-app purchases that can enhance your experience—such as removing ads or unlocking special challenges. These purchases are entirely optional and do not affect your ability to enjoy the game.",
         },
         {
           question: "Does the app affect my smartphone's performance?",
           answer:
             "No, our app is designed to be efficient and does not significantly impact your smartphone's performance.",
         },
-         {
-           question: "Do I need a special windshield to use the app?",
-           answer:
-             "No, you can use any standard windshield. Just make sure to position your smartphone properly for a clear view.",
-         },
-         {
-           question: "How can I report a problem or give feedback?",
-           answer:
-             "You can contact our technical support team through the contact form on our website or by emailing info@yapplic.com. We’re happy to help.",
-         },
-          {
-            question: "Does the app consume a lot of mobile data?",
-            answer:
-              "he app uses minimal mobile data for certain functions. We recommend using a Wi-Fi connection for updates and initial setup.",
-          },
+//          {
+//            question: "Do I need a special windshield to use the app?",
+//            answer:
+//              "No, you can use any standard windshield. Just make sure to position your smartphone properly for a clear view.",
+//          },
+//          {
+//            question: "How can I report a problem or give feedback?",
+//            answer:
+//              "You can contact our technical support team through the contact form on our website or by emailing info@yapplic.com. We’re happy to help.",
+//          },
+//           {
+//             question: "Does the app consume a lot of mobile data?",
+//             answer:
+//               "he app uses minimal mobile data for certain functions. We recommend using a Wi-Fi connection for updates and initial setup.",
+//           },
       ],
     },
     header: {
-      headline: "Point everyone with Hold King",
+      headline: "Be the most patience with Hold King",
       subtitle:
-        "Have fun finding all the images",
+        "Have fun winning and holding",
       screenshots: [
         "/screenshots/3.png",
         "/screenshots/2.png",
